@@ -4,7 +4,8 @@
 I’m currently learning:
 * HTML
 * CSS
-* JavaScript
+* TypeScript
+* Vue.js
 
 <!--
 **krkaizer/krkaizer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
